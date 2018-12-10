@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="016197d6-7479-4b06-b4c0-40f725748235" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DH2323ProjectBlog.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Groot/jump.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/protfolio_images/Sharpen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/protfolio_images/tree-branch.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/protfolio_images/twist.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/video.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/test.png" afterPath="" />
-    </list>
+    <list default="true" id="016197d6-7479-4b06-b4c0-40f725748235" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -111,8 +101,8 @@
       <file leaf-file-name="video.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/video.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="165">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -270,12 +260,12 @@
       <updated>1526642535480</updated>
       <workItem from="1526642536954" duration="12647000" />
       <workItem from="1526916380140" duration="1444000" />
-      <workItem from="1527204760103" duration="9090000" />
+      <workItem from="1527204760103" duration="14486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23181000" />
+    <option name="totallyTimeSpent" value="28577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="23" width="1216" height="777" extended-state="0" />
@@ -630,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/video.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
