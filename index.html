@@ -1,67 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Test</title>
-    <style type="text/css">
-        body {
-            background-color: #ffffff
-        }
-        p {
-            margin-left: 20px
-        }
-        .info_single {
-            background-color: #eeeeee99;
-            width: 80%;
-            height: 55px;
-            border:1px solid #fffbf477;
-            margin: auto;
-        }
-        .pages {
-            width: 100%;
-            padding-top: 25px;
-        }
-        .pageInit {
-            width: 100%;
-            padding-top: 25px
-        }
-
-
-    </style>
-</head>
-<body>
-
-<div style="background-color: white; background-size: 100%;height:660px;background-repeat: no-repeat;">
-    <!-- page 1 -->
-    <div class="pageInit" style="background-color: #eeeeee00;" align="center;" >
-        <div align="center" class="info_single" style="height: 70px">
-            <p style="line-height: 25px; font-size:24px; font-weight: bold" align="left">
-
-            </p>
-        </div>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | HotPipe</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Hotpipe.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 960px; height: 660px"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">HotPipe</div>
+      </div>
     </div>
-    <div class="pages" style="background-color: #eeeeee00; height: 150px;" align="center" >
-        <div align="center" class="info_single">
-            <p style="line-height:20px; font-size: 18px;" align="left" style="height:100%; width:100%">
-                <b>Course Project for DH2323</b>
-                &nbsp &nbsp &nbsp <a href="DH2323ProjectBlog.html">Project Blog</a>
-                &nbsp &nbsp &nbsp <a href="video.html">Video Demo</a>
-            </p>
-            <p style="line-height:20px; font-size: 18px;" align="left" style="height:100%; width:100%">
-                <b>Course Project for Building Serious Game - Test</b>
-                &nbsp &nbsp &nbsp <a href="HotPipe8/index.html">Play</a>
-            </p>
-            <p style="line-height:20px; font-size: 18px;" align="left" style="height:100%; width:100%">
-
-            </p>
-        </div>
-    </div>
-</div>
-
-<script>
-
-</script>
-
-
-</body>
+  </body>
 </html>
